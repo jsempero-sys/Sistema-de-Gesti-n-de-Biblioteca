@@ -45,3 +45,14 @@ A continuación se muestran ejemplos de los elementos más comunes utilizados en
 | Ana     | 31   | Buenos Aires |
 | Carlos  | 27   | Bogotá     |
 
+## Ventajas de utilizar Markdown en combinación con GitHub
+
+Markdown y GitHub funcionan especialmente bien juntos porque:
+
+- GitHub renderiza automáticamente los archivos `.md`, como README.md.
+- Permite crear documentación clara directamente en los repositorios.
+- Facilita la colaboración: los cambios se pueden revisar mediante *pull requests*.
+- Es perfecto para wikis, issues y comentarios, que también soportan Markdown.
+- Mantiene la documentación junto al código, asegurando organización y consistencia.
+
+
