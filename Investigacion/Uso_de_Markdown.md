@@ -51,3 +51,9 @@ Explicación básica de qué es y para qué se utiliza.
 ## Título 2
 ### Título 3
 
+# Conclusión
+
+Markdown es una herramienta rápida, simple y poderosa para crear documentos claros y profesionales.  
+Un archivo como **Uso_de_Markdown.md** sirve como guía práctica para cualquier persona que necesite aprender o recordar su sintaxis.
+
+
