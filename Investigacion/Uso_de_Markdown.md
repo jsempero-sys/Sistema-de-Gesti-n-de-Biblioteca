@@ -20,12 +20,12 @@ A continuación se muestran ejemplos de los elementos más comunes utilizados en
 
 ## 1. Encabezados
 
-```md
+md
 # Título 1
 ## Título 2
 ### Título 3
 
-## 2. LIstas no ordenada
+$$ 2. LIstas no ordenada
 
 - Elemento 1
 - Elemento 2
