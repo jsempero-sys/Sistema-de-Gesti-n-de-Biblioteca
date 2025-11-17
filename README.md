@@ -1,4 +1,4 @@
-# Sistema-de-Gesti-n-de-Biblioteca
+# Sistema-de-Gestion-de-Biblioteca
 
 
 ## 1. Descripción del sistema
